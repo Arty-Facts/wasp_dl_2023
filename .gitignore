@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+venv
+venv_win
+/tmp
+/.vscode
+__pycache__
+dogs-vs-cats.zip
