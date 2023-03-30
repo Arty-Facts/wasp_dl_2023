@@ -1,16 +1,4 @@
-# Docker project template
-
-## How to use the template
-
-```
-git clone https://github.com/Arty-Facts/docker_template.git
-
-git remote remove origin
-
-git remote add origin <new remote>
-
-git push --set-upstream origin main
-```
+# WASP DL 2023
 
 ## Setup and enter the docker image environment 
 
