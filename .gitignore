@@ -4,3 +4,11 @@
 /.vscode
 __pycache__
 dogs-vs-cats.zip
+small_train/
+train/
+small_test/
+test/
+small_val/
+val/
+train_all/
+sampleSubmission.csv
