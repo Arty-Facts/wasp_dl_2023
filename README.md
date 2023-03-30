@@ -26,7 +26,7 @@ source ./env.sh [clean]
 In docker
 
 ```
-source ./env_enter.sh
+source ./env.sh [clean]
 ```
 
 ## Update docker environment
