@@ -37,8 +37,8 @@ docker build -t party_image \
         || exit
 
 docker run -ti --rm \
-        -v ~:/home/$USER \
         $all_gpus \
+        -v ~:/home/$USER \
         -v /mnt:/mnt \
         -v /etc/localtime:/etc/localtime:ro \
         -u $(id -u):$(id -g) \
