@@ -13,6 +13,5 @@ val/
 train_all/
 sampleSubmission.csv
 improved_model
-transfere_vgg_model.pkl
-fine_tuned_vgg_model.pkl
-arty_dc_vgg_model.pkl
+*.pkl
+
