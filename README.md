@@ -1,5 +1,12 @@
 # WASP DL 2023
 
+## Setup host system
+
+```
+chmod +x environment/base-packages.sh
+sudo ./environment/base-packages.sh
+```
+
 ## Setup and enter the docker image environment 
 
 In linux
