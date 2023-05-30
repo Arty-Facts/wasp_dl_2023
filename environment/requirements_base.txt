@@ -6,3 +6,4 @@ scikit-learn
 jax
 jaxlib
 tqdm
+tensorflow-probability
